@@ -32,16 +32,6 @@
 
 - I'm actively interested in contributing to **Web Development**, especially in **Back-End** development.
 
-## 📫 How to Reach Me
-
-- **Email**: [koodal1998@gmail.com](mailto:koodal1998@gmail.com)
-- **LinkedIn**: [Koodalarasan M](https://www.linkedin.com/in/koodalarasan-m-a5909a190/)
-- **Portfolio Website**: [koodalarasan.netlify.app](https://koodalarasan.netlify.app/)
-
-## 💡 Learning and Growth
-
-- I’m looking to learn many things with a lot of interests and continuously improve my skills.
-
 ---
 
 <!---
