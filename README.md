@@ -28,10 +28,6 @@
 - **Position**: Software Engineer
 - **Company**: Evvo Technology Solutions Private Limited
 
-## 👀 Interests
-
-- I'm actively interested in contributing to **Web Development**, especially in **Back-End** development.
-
 ---
 
 <!---
