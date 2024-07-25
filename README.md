@@ -23,14 +23,15 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-## 👀 Interests
-
-- I'm actively interested in contributing to **Web Development**, especially in **Back-End** development.
-
 ## 🌱 Current Role
 
 - **Position**: Software Engineer
 - **Company**: Evvo Technology Solutions Private Limited
+
+## 👀 Interests
+
+- I'm actively interested in contributing to **Web Development**, especially in **Back-End** development.
+
 ## 📫 How to Reach Me
 
 - **Email**: [koodal1998@gmail.com](mailto:koodal1998@gmail.com)
